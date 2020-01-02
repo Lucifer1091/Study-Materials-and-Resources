@@ -1,2 +1,2 @@
 # Study-Materials-and-Resources
-Semister Wise Study Materials
+Semester Wise Study Materials
